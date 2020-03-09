@@ -26,13 +26,14 @@ figure {
 
 #details {
   display: block;
-  background-color: gray;
+  
 }
 
 div {
   float: left;
   width: 25%;
   text-align: center;
+  background-color: gray;
 }
 
 
