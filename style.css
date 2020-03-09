@@ -29,7 +29,7 @@ figure {
   float: left;
 }
 
-#display > div {
+div {
   width: 25%;
   text-align: center;
 }
